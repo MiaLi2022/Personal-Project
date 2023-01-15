@@ -47,7 +47,7 @@ For the guests, the choice is more convenient. They can open the application to 
 - As a user, I want to be able to save my queuing list which contains all customers to file
 - As a user, I want to be able to reload my queuing list from file when the program starts
 
-## Instructions for Grader
+## Instructions for Reader
 - You can generate the first required event by select the **menu** item labelled **"Customers"**, then click the button labelled **"Add to Queue"**, then input a preferred number and choose a table size, then you have added Customer to Queue.
   (A panel display the adding information after you click the button labelled **"Display Waiting List"**).
 - You can generate the second required event by select the **menu** item labelled **"Customers"**, then click the button labelled **"Check Your Waiting Information"**, then input your waiting number and a table size which are added before, then you have got the result after search Customer in Queue.
@@ -55,6 +55,3 @@ For the guests, the choice is more convenient. They can open the application to 
   Or You can trigger my audio component by select the **menu** item labelled **"Customers"**, then click a button.
 - You can save the state of my application by select the **menu** item labelled **"Save To File"**.
 - You can reload the state of my application by select the **menu** item labelled **"Reload From File"**, then click the button labelled **"search"** and choose the file (customers.txt as recommended for test). 
-
-## Phase 4: Task 2
-- Test and design a class that is robust.  You must have at least one method that throws a checked exception.  You must have one test for the case where the exception is expected and another where the exception is not expected.
