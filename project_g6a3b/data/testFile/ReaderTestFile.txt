@@ -1,0 +1,4 @@
+1,small
+2,medium
+7,large
+5,extraLarge

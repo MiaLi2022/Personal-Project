@@ -1,0 +1,2 @@
+25,small
+10,medium
