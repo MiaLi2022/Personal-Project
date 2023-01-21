@@ -1,2 +1,2 @@
 # Personal-Project
-This is a personal project submitted to the Graduate Admissions Office, mainly about creating a program software for restaurant queuing in Java.
+This is a personal project submitted to the Graduate Admissions Office, mainly in Java OOP to construct a restaurant waitlist software.
